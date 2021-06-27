@@ -1,8 +1,8 @@
-.App {
-  text-align: center;
+.app {
+  background-color: #111;
 }
 
-.App-logo {
+.app-logo {
   height: 40vmin;
   pointer-events: none;
 }
